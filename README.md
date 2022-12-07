@@ -9,6 +9,12 @@ math
 numpy
 yfinance
 
+---
+
+**File:** [Compute Volatility](ComputeVolatility.ipynb)
+
+---
+
 
 A quick plot of the daily close shows us the price chart of Apple.
 
